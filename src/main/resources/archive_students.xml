@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <object class="com.lllllll.entity.StudentCase">
+  <void property="GPA">
+   <double>6.7</double>
+  </void>
+  <void property="id">
+   <string>d5103440-13d2-4583-a2a0-4d7180bcaeff</string>
+  </void>
+  <void property="name">
+   <string>Vasya</string>
+  </void>
+  <void property="speciality">
+   <string>POIT</string>
+  </void>
+  <void property="surname">
+   <string>Petrov</string>
+  </void>
+ </object>
+ <object class="com.lllllll.entity.StudentCase">
+  <void property="GPA">
+   <double>6.7</double>
+  </void>
+  <void property="id">
+   <string>b94e87d5-17ec-46d9-b966-2635111bc47b</string>
+  </void>
+  <void property="name">
+   <string>Valentina</string>
+  </void>
+  <void property="speciality">
+   <string>POIT</string>
+  </void>
+  <void property="surname">
+   <string>Petrova</string>
+  </void>
+ </object>
+ <object class="com.lllllll.entity.StudentCase">
+  <void property="GPA">
+   <double>6.7</double>
+  </void>
+  <void property="id">
+   <string>0a0390ce-b558-4674-9916-e716083e71a1</string>
+  </void>
+  <void property="name">
+   <string>Vasya</string>
+  </void>
+  <void property="speciality">
+   <string>POIT</string>
+  </void>
+  <void property="surname">
+   <string>Petrov</string>
+  </void>
+ </object>
+ <object class="com.lllllll.entity.StudentCase">
+  <void property="GPA">
+   <double>6.7</double>
+  </void>
+  <void property="id">
+   <string>f7f9838c-7377-4ff3-83a0-919ce81d39d5</string>
+  </void>
+  <void property="name">
+   <string>Vasya</string>
+  </void>
+  <void property="speciality">
+   <string>POIT</string>
+  </void>
+  <void property="surname">
+   <string>Petrov</string>
+  </void>
+ </object>
+ <object class="com.lllllll.entity.StudentCase">
+  <void property="GPA">
+   <double>9.0</double>
+  </void>
+  <void property="id">
+   <string>8ab99828-57d0-45e3-8ecc-c408daafc2dc</string>
+  </void>
+  <void property="name">
+   <string>Petya</string>
+  </void>
+  <void property="speciality">
+   <string>POIT</string>
+  </void>
+  <void property="surname">
+   <string>Pupkin</string>
+  </void>
+ </object>
+</java>
